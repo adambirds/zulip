@@ -1,8 +1,9 @@
-You can send emails to Zulip! This is useful:
+You can send emails to Zulip!
 
-* If you have an email that you want to discuss on Zulip
-* For mirroring mailing list traffic
-* For integrating a third-party app that can send emails, but which does not
-  easily lend itself to more direct integration
+1.  Instructions are available [here](/help/message-a-stream-by-email).
+    This is useful:
 
-Instructions are available [here](/help/message-a-stream-by-email).
+    * If you have an email that you want to discuss on Zulip
+    * For mirroring mailing list traffic
+    * For integrating a third-party app that can send emails, but which does not
+      easily lend itself to more direct integration
